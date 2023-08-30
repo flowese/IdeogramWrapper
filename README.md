@@ -4,7 +4,7 @@
 
 Written by @Flowese
 
-<a href="https://colab.research.google.com/drive/1tUtiY2GzVlbAVjR-j78pWeY9Ac53IJzz?usp=sharing" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+<a href="https://colab.research.google.com/drive/1tUtiY2GzVlbAVjR-j78pWeY9Ac53IJzz?usp=sharing" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Demo In Colab"></a>
 
 ## Description
 
