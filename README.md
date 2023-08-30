@@ -78,6 +78,7 @@ ideogram.inference()
 - `session_cookie_token`: (Required) The session token you obtained from the cookie.
 - `prompt`: (Required) The textual prompt for generating the image.
 - `aspect_ratio`: (Optional) The aspect ratio of the image. Can be "landscape", "portrait", or "square". Default is "square".
+- `output_dir`: (Optional) The directory where the generated images will be saved. Defaults to a folder named "images".
 - `enable_logging`: (Optional) Whether to enable logging. Default is `False`.
 
 ## License
@@ -87,3 +88,13 @@ This project is licensed under the MIT License.
 ## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository and send a pull request, or open an issue to discuss what you'd like to change. All contributions are welcome!
+
+## TODO
+
+### Pending Tasks and Features
+
+- Implement n_images for parameterizing the number of images to be generated (currently defaults to 4).
+- Implement auto-renewal of the session_cookie_token.
+- Generate different images from a list of prompts.
+- Implement an asynchronous version.
+- Study the possibility of implementing a user interface via Streamlit or Gradio (to be decided).
