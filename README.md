@@ -52,6 +52,8 @@ pip install git+https://github.com/flowese/IdeogramWrapper.git
 5. Find the cookie named `session_cookie`.
 6. Click on `session_cookie` and copy the value in the `Value` field.
 
+![Ideogram Wrapper](screen_cookies.jpeg)
+
 ### Usage
 
 To use `ideogram_wrapper`, import the `IdeogramWrapper` class and provide the necessary parameters.
