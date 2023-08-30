@@ -67,6 +67,7 @@ ideogram = IdeogramWrapper(
     session_cookie_token="your_token_here",  # The value you copied from the session cookie
     prompt="a picture of a dog with a sign saying 'Hello World'",
     aspect_ratio="landscape",  # Can be "landscape", "portrait", or "square"
+    output_dir="images",
     enable_logging=True
 )
 ideogram.inference()
