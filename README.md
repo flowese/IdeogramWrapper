@@ -97,4 +97,4 @@ If you'd like to contribute to this project, feel free to fork the repository an
 - Implement auto-renewal of the session_cookie_token.
 - Generate different images from a list of prompts.
 - Implement an asynchronous version.
-- Study the possibility of implementing a user interface via Streamlit or Gradio (to be decided).
+- Study the possibility of implementing a user interface DEMO via Streamlit or Gradio (to be decided).
